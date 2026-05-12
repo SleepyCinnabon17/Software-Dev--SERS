@@ -35,7 +35,7 @@
 
 | Role | Username | Password |
 |---|---|---|
-| Student | `SE23UARI048` | `password` |
+| Student | `SE23UARI116` | `password` |
 | Admin | `adminravi@sers.com` | `password` |
 | Professor | `profsharma@sers.com` | `password` |
 
