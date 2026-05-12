@@ -1,20 +1,23 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx0b2k5cTR1OHM0a2d2d3V3NmN3MXh5YjZpZTR0d3M0bTR4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%" />
 
-# ✨ SERS
-### Student Elective Registration System
+# 💠 Student Elective Registration System (SERS)
+
+### Smart Academic Elective Management Platform
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge&logo=springboot">
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql">
-  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel">
+  <img src="https://img.shields.io/badge/Frontend-React_18-0A66C2?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Deployment-Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Role-Based+Elective+Registration;Interactive+Timetable+Management;Automatic+Clash+Detection;Full-Stack+Academic+Platform" />
 
 ---
 
-*A full-stack elective registration platform with timetable visualization, clash detection, seat tracking, and role-based academic management.*
+*A modern full-stack university elective registration system designed to simplify course allocation, timetable planning, and academic administration.*
 
 </div>
 
@@ -28,19 +31,19 @@
 
 ---
 
-# 🔐 Test Login Credentials
+# 🔐 Demo Credentials
 
 | Role | Username | Password |
 |---|---|---|
-| Student | `SE23UARI116` | `password` |
+| Student | `SE23UARI048` | `password` |
 | Admin | `adminravi@sers.com` | `password` |
 | Professor | `profsharma@sers.com` | `password` |
 
 ---
 
-# ⚙️ Tech Stack
+# ⚡ Tech Stack
 
-| Layer | Technology |
+| Layer | Technologies |
 |---|---|
 | Frontend | React 18, Axios, React Router, Recharts |
 | Backend | Java 17, Spring Boot, Spring Security, Hibernate JPA |
@@ -49,54 +52,54 @@
 
 ---
 
-# ✨ Features
+# 🚀 Core Features
 
 ## 👨‍🎓 Student Portal
 
-- Role-based authentication
+- Secure role-based authentication
 - Interactive weekly timetable
 - Browse CORE & HUMANITIES electives
-- Timetable preview before registration
+- Real-time timetable preview
 - Automatic clash detection
-- Real-time seat availability tracking
-- Category limit validation
+- Seat availability monitoring
+- Category limit enforcement
 - Export timetable as PNG
-- Light/Dark mode support
+- Light / Dark theme toggle
 
 ---
 
 ## 🛠️ Admin Dashboard
 
 - Enrollment analytics dashboard
-- Seat fill rate visualizations
-- Full course management (CRUD)
-- Student & enrollment monitoring
+- Seat fill rate visualization
+- Complete course management (CRUD)
+- Student & enrollment overview
 - Manual allocation override
 
 ---
 
 ## 👨‍🏫 Professor Portal
 
-- View assigned courses
-- Access enrolled student lists
+- Access assigned courses
+- View enrolled students
 
 ---
 
-# 📂 Project Documentation
+# 📂 Documentation
 
-All project documents are available in the `/docs` directory:
+All supporting documents are available inside the `/docs` folder:
 
 - Problem Statement
-- Software Requirements Specification (SRS)
-- Software Design Specification (SDS)
+- SRS (Software Requirements Specification)
+- SDS (Software Design Specification)
 - Test Plan
 
 ---
 
-# 📌 Notes
+# 📌 Additional Notes
 
-- Database may take up to **30 seconds** to wake if inactive.
-- Includes pre-seeded demo data:
+- Backend database may take ~30 seconds to wake after inactivity.
+- Includes pre-seeded academic data:
   - 50 student records
   - 18 courses
   - 14 faculty profiles
@@ -105,8 +108,6 @@ All project documents are available in the `/docs` directory:
 
 <div align="center">
 
-### 💻 Built for streamlined academic elective management
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,50:1D4ED8,100:38BDF8&section=footer"/>
 
 </div>
